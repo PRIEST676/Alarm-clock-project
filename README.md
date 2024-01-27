@@ -1,5 +1,5 @@
 # Alarm-clock-project
-🪧 Demo : https://f65c105e-f55c-4eb3-b2f0-c9ebc51613c7-00-2g18gunaf7pl8.sisko.replit.dev/
+🪧 Demo : https://29cfa4db-e345-4806-8373-32b8473d6787-00-2sindq2yyty4w.pike.replit.dev/
 ---
 
 About the Project :-
